@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
+@import url(https://fonts.googleapis.com/css?family=Khand);
+
+body {
+  background: #fff8dc;
+}
+h1 {
+  background: #fff8dc;
+  color: #444140;
+  font-family: "Khand";
+}
+
+h1 span {
+  color: #e54b4b;
+  font-family: "Khand";
+}
+
+h3 {
+  font-family: "Seaweed Script";
+  color: rgb(255, 140, 68);
+  font-size: 28px;
+  margin-top: 0;
+}
+
+p {
+  color: #444140;
+}
+a {
+  text-decoration: none;
+  color: magenta;
+}
+img {
+  width: 400px;
+}
